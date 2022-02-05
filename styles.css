@@ -1,0 +1,110 @@
+a{
+  text-decoration: none;
+}
+a:link {
+  color: #8A39E1;
+}
+
+/* visited link */
+a:visited {
+  color: #8A39E1;
+}
+
+/* mouse over link */
+a:hover {
+  color: #FC28FB;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+.cloud2{
+  position: relative;
+  left:1000px;
+  bottom: 200px;
+}
+.cloud1{
+  position: relative;
+  left:137px;
+  bottom: 70px;
+}
+
+.princess{
+    position: relative;
+    left:100px;
+    top: 30px;
+}
+.top {
+  padding-top: 30px;
+  padding-left: 30px;
+  background-color: #FBCAFF;
+  height: 250px;
+}
+
+.bottom {
+  background-color: #FBCAFF;
+  width: 100%;
+  height: 200px;
+}
+
+.middle {
+  background-color: #FBCAFF;
+  width: 100%;
+  height: 350px;
+}
+.contactme{
+  background-color: #FBCAFF;
+}
+body {
+  margin: 0;
+}
+
+h1 {
+  margin-top: 0;
+  position: relative;
+  bottom: 60px;
+  font-family:"Sofia",sans-serif;
+  color:  #8A39E1;
+  font-size: 40px;
+}
+
+.casual {
+  border-spacing: 50px;
+  position: relative;
+  bottom: 90px;
+}
+
+h3 {
+  position: relative;
+  left: 800px;
+  font-family:"Sofia",sans-serif;
+}
+p{
+  position: relative;
+  bottom: 60px;
+    color:  #8A39E1;
+}
+h2{
+  color: #8A39E1;
+  font-family:"Sofia",sans-serif;
+  position: relative;
+  bottom: 150px;
+  left: 600px;
+}
+h4{
+  color: #8A39E1;
+  font-family:"Sofia",sans-serif;
+  font-size: 30px;
+
+}
+ul{
+  color:  #8A39E1;
+  position: relative;
+  bottom: 150px;
+  left: 600px;
+}
+.contacts {
+  top: 100px;
+  border-spacing: 200px;
+}
